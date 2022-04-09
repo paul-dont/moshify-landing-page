@@ -1,4 +1,4 @@
-# Main project for the HTML/CSS course from https://codewithmosh.com/
+# Main project for the HTML/CSS course from [codewithmosh](https://codewithmosh.com/)
 
 ## Table of contents
 
